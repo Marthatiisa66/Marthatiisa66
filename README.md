@@ -10,4 +10,4 @@ I enjoy uncovering insights through data cleaning, visualizationa, and storytell
 - Analytics Capstone:
 - Execel Project:
 - Python project:
-- Tableau Dashboard: 
+- Tableau Dashboard: https://public.tableau.com/views/Week11WorkshopUncoveringInsightsWithTableauHospitalERViz/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
