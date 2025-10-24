@@ -6,9 +6,8 @@ Medical secretary transitioning into data analysis, combining my healthcare back
 
 I enjoy uncovering insights through data cleaning, visualizationa, and storytelling using tools like Python, SQL, and Tableau.
 
-## Features Projects 
+## Featured Projects 
 - Analytics Capstone:
 - Execel Project:
 - Python project:
-- Pandas project:
 - Tableau Dashboard: 
