@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Martha 👋
+ 
+Medical secretary transitioning into data analysis, combining my healthcare background with a love for problem-solving and data storytelling. 
 
-<!--
-**Marthatiisa66/Marthatiisa66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My Focus 
 
-Here are some ideas to get you started:
+I enjoy uncovering insights through data cleaning, visualizationa, and storytelling using tools like Python, SQL, and Tableau.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Features Projects 
+- Analytics Capstone:
+- Execel Project:
+- Python project:
+- Pandas project:
+- Tableau Dashboard: 
